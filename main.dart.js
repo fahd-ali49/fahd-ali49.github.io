@@ -36577,7 +36577,7 @@ s.d.lG(B.xw)
 s.e.lG(B.xw)
 s.al(new A.acc(s))},
 U(a){var s=this,r=null,q=t.V
-return new A.x8(new A.ty(B.JD,!0,new A.NB(r,r,1/0,56),r),new A.eg(B.BZ,A.ahH(A.c([new A.vg(A.axp(r,r,new A.tB("assets/logo.png",r,r)),160,160,r),B.jT,A.anU(s.d,B.CV,B.xB),B.xd,A.anU(s.e,B.CU,B.xB),B.jT,A.axr(A.c([A.alH(B.JE,s.gXG(),r),A.alH(B.JC,s.ga5w(),A.auX(r,r,B.GP,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r))],q),B.bS,B.rp,B.je),B.jT,A.anw("\u0627\u0644\u0645\u062c\u0645\u0648\u0639 \u0628\u0639\u062f \u0627\u0644\u062f\u0639\u0645: "+A.l(s.f)+" \u0631\u064a\u0627\u0644",B.xE),B.xd,A.anw("\u0627\u0644\u0633\u0639\u0631 \u0628\u0639\u062f \u0627\u0644\u0636\u0631\u064a\u0628\u0629 (15%): "+A.l(s.r)+" \u0631\u064a\u0627\u0644",B.xE)],q),B.bS,B.cn,B.je),r),r)}}
+return new A.x8(new A.ty(B.JD,!0,new A.NB(r,r,1/0,56),r),new A.eg(B.BZ,A.ahH(A.c([new A.vg(A.axp(r,r,new A.tB("assets/logo.png",r,r)),200,500,r),B.jT,A.anU(s.d,B.CV,B.xB),B.xd,A.anU(s.e,B.CU,B.xB),B.jT,A.axr(A.c([A.alH(B.JE,s.gXG(),r),A.alH(B.JC,s.ga5w(),A.auX(r,r,B.GP,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r))],q),B.bS,B.rp,B.je),B.jT,A.anw("\u0627\u0644\u0645\u062c\u0645\u0648\u0639 \u0628\u0639\u062f \u0627\u0644\u062f\u0639\u0645: "+A.l(s.f)+" \u0631\u064a\u0627\u0644",B.xE),B.xd,A.anw("\u0627\u0644\u0633\u0639\u0631 \u0628\u0639\u062f \u0627\u0644\u0636\u0631\u064a\u0628\u0629 (15%): "+A.l(s.r)+" \u0631\u064a\u0627\u0644",B.xE)],q),B.bS,B.cn,B.je),r),r)}}
 A.acb.prototype={
 $0(){var s=this.a,r=s.f=this.b+this.c
 s.r=r+r*0.15},
